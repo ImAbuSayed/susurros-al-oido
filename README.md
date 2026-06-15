@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-al-oido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Susurros al oído](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-al-oido/) |
+| **Get License** | [License this song: Susurros al oído](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-al-oido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus susurros al oído son mi perdición
+> Bailando en la oscuridad, perdiendo la razón
+> Tienes ese fuego que domina mi intención
+> Esta noche en la ciudad, tú eres mi adicción
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
