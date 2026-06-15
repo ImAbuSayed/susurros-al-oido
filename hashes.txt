@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurros al oído
+
+This log tracks the cryptographic history and versioning for the song **Susurros al oído** (susurros-al-oido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T21:20:25.968097 | `v1` | `637c5c97ac8646bfd56e82393050f7aa69b2af62d355c62b053f419de437c152` | `d5f1d24095e1e3b2a6d73175dc50a181bde96c1cc126210758db75d19165ef42` | `2026-06-15_susurros-al-oido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

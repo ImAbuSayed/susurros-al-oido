@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurros-al-oido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Susurros al oído](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-al-oido/) |
+| **Get License** | [Get a Licensing Quote for Susurros al oído](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurros-al-oido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `637c5c97ac8646bfd56e82393050f7aa69b2af62d355c62b053f419de437c152` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
